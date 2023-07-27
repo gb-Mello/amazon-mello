@@ -19,24 +19,24 @@ const Navbar = () => {
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a href="#">Page 1-1</a>
+                <a href="#">Eletronicos</a>
               </li>
               <li>
-                <a href="#">Page 1-2</a>
+                <a href="#">Jogos</a>
               </li>
               <li>
-                <a href="#">Page 1-3</a>
+                <a href="#">Consoles</a>
               </li>
             </ul>
           </li>
           <li>
-            <a href="#">Page 2</a>
+            <a href="#">Contato</a>
           </li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
           <li>
             <a href="#">
-              <span class="glyphicon glyphicon-user"></span> Sign Up
+              <span class="glyphicon glyphicon-user"></span> Cadastre-se
             </a>
           </li>
           <li>
